@@ -1,0 +1,21 @@
+{
+	"name": "witchiiwork/php-csrf",
+	"description": "A CSRF package to easily integrate CSRF protection.",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Witchaphat Muangjansorn",
+			"email": "admin@witchii.work",
+			"homepage": "https://www.witchii.work/",
+			"role": "Developer"
+		}
+	],
+	"minimum-stability": "stable",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"W2W\\CSRF": "src"
+		}
+	}
+}
